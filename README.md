@@ -11,7 +11,7 @@ I make plugins and small mods for the League of Legends client and Discord.
 | [Oneko-lol](https://github.com/Mixiruri/Oneko-lol) | A little cat that follows your cursor in the League client. |
 | [AnonymousEnemies](https://github.com/Mixiruri/AnonymousEnemies) | Hides enemy champion names in Champion Select. |
 | [Mixi-Plugins](https://github.com/Mixiruri/Mixi-Plugins) | A cozy collection of plugins for modified Discord clients. |
-| [Testcord-Web](https://github.com/Mixiruri/Testcord-Web) | TestCord's 500+ plugins as a web extension for discord.com, no desktop app needed. |
+
 
 ## Stack
 
